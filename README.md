@@ -3,7 +3,7 @@
 
 ## Swift Language
 
-- [ ] Optional
+-- [ ] Optional
 - [ ] Protocol
 - [ ] Generics
  

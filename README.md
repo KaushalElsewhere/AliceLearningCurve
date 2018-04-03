@@ -6,14 +6,12 @@
 - [x] Protocol
 - [x] Generics
 - [x] Closure 
- 
---------
+
 ## Apple ecosystem
 - [ ] CoreML
 - [ ] ARKit
 - [ ] MapKit
 
-------
 ## Design Patterns
 - [x] Delegation
 - [x] Completion
@@ -38,3 +36,8 @@
 - [ ] XCTest
 - [ ] TDD
 - [ ] Quick/Nimble
+
+## Dependency/Package Manager
+- [x] Cocoapod
+- [ ] Carthage
+- [ ] Swift Packager Manager

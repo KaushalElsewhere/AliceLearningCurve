@@ -3,7 +3,11 @@
 
 ## Swift Language
 
--- [ ] Optional
-- [ ] Protocol
-- [ ] Generics
+- [x] Optional
+- [x] Protocol
+- [x] Generics
  
+## Apple ecosystem
+- [ ] CoreML
+- [ ] ARKit
+

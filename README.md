@@ -5,15 +5,15 @@
 - [x] Optional
 - [x] Protocol
 - [x] Generics
-- [x] Closure
-- [ ] 
+- [x] Closure 
  
+--------
 ## Apple ecosystem
 - [ ] CoreML
 - [ ] ARKit
 - [ ] MapKit
-- [ ] 
 
+------
 ## Design Patterns
 - [x] Delegation
 - [x] Completion
@@ -33,7 +33,6 @@
 - [ ] L
 - [ ] I
 - [ ] D
-- [ ]
 
 ## Unit Testing
 - [ ] XCTest

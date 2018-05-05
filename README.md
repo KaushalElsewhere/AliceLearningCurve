@@ -17,6 +17,7 @@
 - [x] Completion
 - [ ] Promise/Future/task
 - [ ] Dependency Injection
+- [ ] Must Cover https://github.com/ochococo/Design-Patterns-In-Swift
 
 ## Architecture
 - [x] Coordinator

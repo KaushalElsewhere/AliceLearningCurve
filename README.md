@@ -23,6 +23,9 @@ https://github.com/ochococo/Design-Patterns-In-Swift
 - [ ] Creational
 - [ ] Structural
 
+https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa47
+- [ ] all
+
 ## Architecture
 - [x] Coordinator
 - [ ] MVC

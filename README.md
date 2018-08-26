@@ -15,7 +15,7 @@
 ## Design Patterns
 - [x] Delegation
 - [x] Completion
-- [ ] Promise/Future/task
+- [x] Promise/Future/task
 - [ ] Dependency Injection
 
 https://github.com/ochococo/Design-Patterns-In-Swift
@@ -28,13 +28,13 @@ https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa
 
 ## Architecture
 - [x] Coordinator
-- [ ] MVC
-- [ ] MVVM
-- [ ] VIPER
-- [ ] Clean
+- [x] MVC
+- [x] MVVM
+- [x] VIPER
+- [x] Clean
 
 ## Concepts
-- [ ] S
+- [x] S
 - [ ] O
 - [ ] L
 - [ ] I
@@ -47,5 +47,5 @@ https://medium.com/swiftworld/collection-for-design-patterns-in-swift-67265359aa
 
 ## Dependency/Package Manager
 - [x] Cocoapod
-- [ ] Carthage
+- [x] Carthage
 - [ ] Swift Packager Manager
